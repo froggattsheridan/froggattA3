@@ -6,14 +6,14 @@ export const MYSONGS: Songs[] = [
     artist: "The Sex Pistols",
     genre: "Punk",
     released: 1979,
-    picture: "/assets/images/myWay.jfif"
+    picture: "./assets/images/myWay.jfif"
   },
   {
     name: "One of These Days",
     artist: "Pink Floyd",
     genre: "Progressive Rock",
     released: 1971,
-    picture: "assets/images/oneOfTheseDays.jfif"
+    picture: "./assets/images/oneOfTheseDays.jfif"
   },
   {
     name: "Begin the Begin",
@@ -27,6 +27,6 @@ export const MYSONGS: Songs[] = [
     artist: "The White Stripes",
     genre: "Alternative/Indie",
     released: 2001,
-    picture: "/froggattA3/assets/images/fellInLove.jfif"
+    picture: "./assets/images/fellInLove.jfif"
   }
 ];
